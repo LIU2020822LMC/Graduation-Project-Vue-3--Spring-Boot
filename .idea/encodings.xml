@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/common/ConConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/common/JWTInterceptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/common/Result.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/common/WebConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/controller/AdminController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/controller/EchartsController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/controller/FileController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/controller/WebController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/entity/Admin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/entity/Introduction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/entity/Notice.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/exception/CustomerException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/exception/GlobalExceptionhander.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/mapper/AdminMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/service/AdminService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/example/utlis/TokenUtils.java" charset="UTF-8" />
+  </component>
+</project>

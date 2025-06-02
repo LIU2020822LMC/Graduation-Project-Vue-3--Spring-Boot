@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.Administrator_ReviewMapper">
+    <select id="selectAll" resultType="com.example.entity.Administrator_Review">
+        select administrator_review.*,user.name as username from `administrator_review`
+        left join user on administrator_review.user_id = user.id
+        <where >
+            <if test="title != null and title != '' ">and title like  concat('%', #{title},'%' )</if> <!-- 这是模糊查询-->
+            <if test="userId != null">and user_id = #{userid}</if>
+        </where>
+        order by id asc
+    </select>
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id">
+        insert into `administrator_review` (title,content,time,user_id,status,reason)
+        values(#{title},#{content},#{time},#{userId},#{status},#{reason})
+    </insert>
+    <update id="updateByID">
+        update `administrator_review` set title=#{title},content=#{content},time=#{time},user_id=#{userId},status=#{status},reason=#{reason}
+        where id=#{id}
+    </update>
+</mapper>
+
+

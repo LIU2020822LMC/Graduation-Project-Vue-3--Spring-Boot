@@ -1,0 +1,20 @@
+server:
+  port: 2020
+#数据库配置
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: LIUyuxuan2020822
+    url: jdbc:mysql://localhost:3306/lmc_code2025?useSSL=false&serverTimezone=UTC&characterEncoding=UTF-8&useUnicode=true&autoReconnect=true&rewriteBatchedStatements=true&allowPublicKeyRetrieval=true
+
+mybatis:
+  # 映射 XML 文件位置
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    # 配置日志实现类（输出到控制台）
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    # 开启下划线转驼峰命名映射
+    map-underscore-to-camel-case: true
+    use-actual-param-name: false        # 添加这个配置
+    call-setters-on-nulls: true
