@@ -7,6 +7,5 @@
 
 目前这个项目运行起来所需要的数据库的表：
 
-![[![image](https://github.com/user-attachments/assets/9045bf8e-e8f1-4ec7-a643-249280ad7efc)
-]]
-
+![image](https://github.com/user-attachments/assets/9045bf8e-e8f1-4ec7-a643-249280ad7efc)
+]
