@@ -8,4 +8,15 @@
 目前这个项目运行起来所需要的数据库的表：
 
 ![image](https://github.com/user-attachments/assets/9045bf8e-e8f1-4ec7-a643-249280ad7efc)
-]
+
+各种表的结构：
+
+admin表：
+
+![image](https://github.com/user-attachments/assets/41fac095-9e49-493e-8eb6-e76a9a635e44)
+
+administrator_review表：
+
+![image](https://github.com/user-attachments/assets/c649dd31-2a01-464b-add7-4a1a4c629231)
+
+
