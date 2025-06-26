@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1096d7f0-b62e-419c-9a2e-1855604883d0)![image](https://github.com/user-attachments/assets/1096d7f0-b62e-419c-9a2e-1855604883d0)# vue3+SpringBoot制作的25年毕设项目
+# vue3+SpringBoot制作的25年毕设项目
 本地部署运行步骤如下：
 
 将这个仓库拉到你建立的文件夹下面，在你文件夹的命令终端运行下面条命令
@@ -32,7 +32,28 @@ category表：
 introduction表：
 
 ![image](https://github.com/user-attachments/assets/d32a8c1c-9a47-435c-a4cb-999c1391fc44)
-![image](https://github.com/user-attachments/assets/d32a8c1c-9a47-435c-a4cb-999c1391fc44)
+
+notice表：
+
+![image](https://github.com/user-attachments/assets/471231ad-baef-4c7b-94db-b439a232da03)
+
+record表：
+
+![image](https://github.com/user-attachments/assets/7099b193-b187-434a-b88e-6e78aa78975f)
+
+user表：
+
+![image](https://github.com/user-attachments/assets/02edb2b2-ef16-45ae-b309-f1d5f92821e9)
+
+在spring boot中找application.yml文件修改成你自己的数据库：
+
+![image](https://github.com/user-attachments/assets/53311bad-9768-43ef-b101-04447d14f2ea)
+
+:running:做完以上这些基本上这个项目就能成功运行到你的本地计算机上了
+
+
+
+
 
 
 
