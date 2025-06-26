@@ -1,4 +1,6 @@
-# vue3+SpringBoot制作的25年毕设项目
+![image](https://github.com/user-attachments/assets/1096d7f0-b62e-419c-9a2e-1855604883d0)![image](https://github.com/user-attachments/assets/1096d7f0-b62e-419c-9a2e-1855604883d0)# vue3+SpringBoot制作的25年毕设项目
+本地部署运行步骤如下：
+
 将这个仓库拉到你建立的文件夹下面，在你文件夹的命令终端运行下面条命令
 
 `git clone https://github.com/LIU2020822LMC/Graduation-Project-Vue-3--Spring-Boot.git`
@@ -18,5 +20,11 @@ admin表：
 administrator_review表：
 
 ![image](https://github.com/user-attachments/assets/c649dd31-2a01-464b-add7-4a1a4c629231)
+
+book表：
+
+![image](https://github.com/user-attachments/assets/e9fcdab0-6186-4642-90fe-639fbc9fe574)
+
+
 
 
