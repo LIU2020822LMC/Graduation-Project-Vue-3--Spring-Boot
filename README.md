@@ -25,6 +25,17 @@ book表：
 
 ![image](https://github.com/user-attachments/assets/e9fcdab0-6186-4642-90fe-639fbc9fe574)
 
+category表：
+
+![image](https://github.com/user-attachments/assets/70cd3dfa-1c8f-4921-930f-bef137dfe6f7)
+
+introduction表：
+
+![image](https://github.com/user-attachments/assets/d32a8c1c-9a47-435c-a4cb-999c1391fc44)
+![image](https://github.com/user-attachments/assets/d32a8c1c-9a47-435c-a4cb-999c1391fc44)
+
+
+
 
 
 
